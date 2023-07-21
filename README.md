@@ -4,18 +4,27 @@
 
 ## Introduction
 
-Hello there! 👋 I'm Habibur Rahman, a passionate AI engineer and software developer based in Jinju, South Gyeongsang, South Korea. I have a strong interest in large-scale data-driven solutions, machine learning, analytics, and data visualization. My goal is to write code that will impact the world today and forever!
+Hi!
+I'm Habibur Rahman
+Research Assistant (RA) at the Big Data System Software Laboratory in the Department of AI Convergence Engineering at Gyeongsang National University. I have a strong interest in large-scale data-driven solutions, machine learning, analytics, and data visualization. My goal is to write code that will impact the world today and forever!
 
 ## Contact Information
 
-- Email: habib.usa2014@gmail.com
-- Phone: +8801319098595
+- Email: habibur.dream@gmail.com
+- Phone: +8201064419715
 - LinkedIn: [linkedin.com/in/bithabib](https://linkedin.com/in/bithabib)
+- GitHub: [github.com/in/bithabib](https://github.com/bithabib)
 
 ## About Me
 
-I hold a Master's degree in AI Convergence Engineering from Gyeongsang National University, where I am currently working as a Research Assistant (RA) at the Big Data System Software Laboratory. My journey in the field of computer science began during my Bachelor's degree in Computer Science and Engineering at Daffodil International University (DIU).
-
+I am currently a Master's student pursuing a degree in AI Convergence Engineering. I am also actively engaged as a Research Assistant (RA) at the prestigious Big Data System Software Laboratory. My academic journey in the field of computer science commenced during my Bachelor's degree at Daffodil International University (DIU), where I majored in Computer Science and Engineering. As I continue my pursuit of a master's degree and simultaneously contribute to groundbreaking research as an RA, I am deeply enthusiastic about delving into the ever-evolving realm of artificial intelligence and its convergence with diverse domains.
+## Selected Publications
+- Dengue Fever Prediction
+M Habibur Rahman, M Omar Faroque, FS Tithi
+Information and Communication Technology for Competitive Strategies (ICTCS …	1	2022
+- Helping healthcare providers to differentiate COVID-19 pneumonia by analyzing digital chest x-rays: role of artificial intelligence in healthcare practice
+ANZ Ullah, H Rahman, SM Allayear, MLA Khan, SM Faysal, ...
+International Journal of Biomedicine 12 (3), 459-465
 ## Experience
 
 ### Research Assistant (RA) at Big Data System Software Laboratory, Gyeongsang National University
