@@ -1,19 +1,17 @@
 # Habibur Rahman's Profile
 
-![Habibur Rahman's Profile](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.6435-9/40906742_1105365689634416_7344347424225230848_n.jpg?_nc_cat=108&cb=99be929b-3346023f&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFXOfWYL1P7dzJjU1SGgjTqSRapY-r0mqNJFqlj6vSaox3z06ULHU12eZsZM5hwMHuQ5LC4Vs3cSo5e8VGP97l1&_nc_ohc=v5u3KE-GwdYAX-zdMIH&_nc_ht=scontent-gmp1-1.xx&oh=00_AfB1840T9rEmJfmNAoj3xJ_LfDw80CxZpl6D0MsPfXkctw&oe=64E168A8)
-
-## Introduction
-
-Hi!
-I'm Habibur Rahman
-Research Assistant (RA) at the Big Data System Software Laboratory in the Department of AI Convergence Engineering at Gyeongsang National University. I have a strong interest in large-scale data-driven solutions, machine learning, analytics, and data visualization. My goal is to write code that will impact the world today and forever!
+<img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t1.6435-9/40906742_1105365689634416_7344347424225230848_n.jpg?_nc_cat=108&cb=99be929b-3346023f&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFXOfWYL1P7dzJjU1SGgjTqSRapY-r0mqNJFqlj6vSaox3z06ULHU12eZsZM5hwMHuQ5LC4Vs3cSo5e8VGP97l1&_nc_ohc=v5u3KE-GwdYAX-zdMIH&_nc_ht=scontent-gmp1-1.xx&oh=00_AfB1840T9rEmJfmNAoj3xJ_LfDw80CxZpl6D0MsPfXkctw&oe=64E168A8" alt="Habibur Rahman's Profile" align="right" width="300">
 
 ## Contact Information
+Md Habibur Rahman  
+Research Assistant (RA)  
+Department of Aerospace and Software Engineering  
+Gyeongsang National University (GNU)  
+- Email: habibur.dream@gmail.com  
+- Phone: +8201064419715  
+- LinkedIn: [linkedin.com/in/bithabib](https://linkedin.com/in/bithabib)  
+- GitHub: [github.com/bithabib](https://github.com/bithabib)
 
-- Email: habibur.dream@gmail.com
-- Phone: +8201064419715
-- LinkedIn: [linkedin.com/in/bithabib](https://linkedin.com/in/bithabib)
-- GitHub: [github.com/in/bithabib](https://github.com/bithabib)
 
 ## About Me
 
