@@ -17,6 +17,7 @@ Gyeongsang National University (GNU)
 ## About Me
 
 I am currently a Master's student pursuing a degree in AI Convergence Engineering. I am also actively engaged as a Research Assistant (RA) at the prestigious Big Data System Software Laboratory. My academic journey in the field of computer science commenced during my Bachelor's degree at Daffodil International University (DIU), where I majored in Computer Science and Engineering. As I continue my pursuit of a master's degree and simultaneously contribute to groundbreaking research as an RA, I am deeply enthusiastic about delving into the ever-evolving realm of artificial intelligence and its convergence with diverse domains.
+
 ## Selected Publications
 - Dengue Fever Prediction
 M Habibur Rahman, M Omar Faroque, FS Tithi
@@ -24,6 +25,7 @@ Information and Communication Technology for Competitive Strategies (ICTCS …	1
 - Helping healthcare providers to differentiate COVID-19 pneumonia by analyzing digital chest x-rays: role of artificial intelligence in healthcare practice
 ANZ Ullah, H Rahman, SM Allayear, MLA Khan, SM Faysal, ...
 International Journal of Biomedicine 12 (3), 459-465
+
 ## Experience
 
 ### Research Assistant (RA) at Big Data System Software Laboratory, Gyeongsang National University
