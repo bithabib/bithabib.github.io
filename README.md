@@ -13,6 +13,7 @@ Gyeongsang National University (GNU)
 - GitHub: [github.com/bithabib](https://github.com/bithabib)
 
 
+
 ## About Me
 
 I am currently a Master's student pursuing a degree in AI Convergence Engineering. I am also actively engaged as a Research Assistant (RA) at the prestigious Big Data System Software Laboratory. My academic journey in the field of computer science commenced during my Bachelor's degree at Daffodil International University (DIU), where I majored in Computer Science and Engineering. As I continue my pursuit of a master's degree and simultaneously contribute to groundbreaking research as an RA, I am deeply enthusiastic about delving into the ever-evolving realm of artificial intelligence and its convergence with diverse domains.
@@ -80,6 +81,7 @@ I actively contribute to the development community through various projects and 
 - GitHub: [github.com/HabiburRahman1](https://github.com/HabiburRahman1)
 - Medium: [medium.com/@habib.usa2014](https://medium.com/@habib.usa2014)
 - Stack Overflow: [stackoverflow.com/users/5984676/habib](https://stackoverflow.com/users/5984676/habib?tab=profile)
+- YouTube: [youtube.com/bithabib](https://www.youtube.com/channel/UC7vAZlLF9oJbyTu2d5SlHbg)
 
 ## News Coverage
 
