@@ -4,7 +4,7 @@
 
 Md Habibur Rahman  
 Research Assistant (RA)  
-Department of Aerospace and Software Engineering  
+Department of Aerospace and Software Engineering(AI Convergernce Engineering)
 Gyeongsang National University (GNU)  
 - Email: habibur.dream@gmail.com  
 - Phone: +8201064419715  
